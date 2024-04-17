@@ -1,0 +1,9 @@
+# config 폴더 무시
+config/
+
+# 모든 mp4, avi 파일을 무시
+*.mp4
+*.avi
+
+# 특정파일 무시
+asset/private.txt
